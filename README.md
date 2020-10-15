@@ -14,7 +14,7 @@ Steps followed in the project:
 
 • Performed Linear Regression  on the data set and evaluated the model with the help R_squared value.
 
-• R_squared value stands at 74.37%
+• R_squared value stands at 0.74
 
 * Considering the R_squared value obtained in Linear regression , We can see that there is still scope model improvement.
 
@@ -22,5 +22,5 @@ Steps followed in the project:
 
   •Performed Polynomial Regression  on the data set and evaluated the model with the help R_squared value
   
-  •R_squared value stands at 74.37%
+  •R_squared value stands at 0.84
   
